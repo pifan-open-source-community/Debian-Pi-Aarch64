@@ -1805,8 +1805,10 @@ sudo  sh  ./sys_upgrade
 
 ### 5-5 Rpi4 USB启动(固件升级)
 
-点击 **[此处](./FW/)** 下载固件升级程序，以支持RPI4的USB启动。
+点击 **[此处](https://github.com/pifan-community/Debian-Pi-Aarch64-Component/tree/master/FW/eeprom)** 下载固件升级程序，以支持RPI4的USB启动。
 解压后，请阅读压缩包内的readme.txt文件说明，按照步骤升级即可。（注意：你必须现在TF启动的模式下升级固件）
+
+你还可以选择升级VL805 Pcie to USB3.0 桥的固件，此操作**不是**必须的，但是可以略微提升usb3.0读写性能。相关文件和工具请点击**[此处](https://github.com/pifan-community/Debian-Pi-Aarch64-Component/tree/master/FW/vl805)**
 
 ----
 
