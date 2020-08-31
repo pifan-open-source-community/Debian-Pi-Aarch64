@@ -26,7 +26,7 @@ Give me a star, just a click, I will be very happy and satisfied...  :)
 
 **Gitee Repo:** [gitee.com/openfans-community/Debian-Pi-Aarch64](https://gitee.com/openfans-community/Debian-Pi-Aarch64)
 
-**Github Repo:** [github.com/openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64)
+**Github Repo:** [github.com/pifan-community/Debian-Pi-Aarch64](https://github.com/pifan-community/Debian-Pi-Aarch64)
 
 ----
 
