@@ -44,6 +44,8 @@
 
 如果你在版本 **202006 U3** 的系统中遇到了谷歌浏览器的显示问题，请看[这里](./README_zh.md#3-163-chromium%E6%B5%8F%E8%A7%88%E5%99%A8%E7%95%8C%E9%9D%A2%E6%98%BE%E7%A4%BA%E9%94%99%E8%AF%AF)，该问题已在20200617(含)之后的版本修复。
 
+树莓派4现已正式官方支持USB启动，点击**[此处](./README_zh.md#5-5-rpi4-usb%E5%90%AF%E5%8A%A8%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7)** 快速跳转到相关章节。
+
 ```
 内核及固件最新版本：
 2020-06-22-v2020-2.0-U4-Release ( 建议更新 )
@@ -1808,7 +1810,7 @@ sudo  sh  ./sys_upgrade
 点击 **[此处](https://github.com/pifan-community/Debian-Pi-Aarch64-Component/tree/master/FW/eeprom)** 下载固件升级程序，以支持RPI4的USB启动。
 解压后，请阅读压缩包内的readme.txt文件说明，按照步骤升级即可。（注意：你必须现在TF启动的模式下升级固件）
 
-你还可以选择升级VL805 Pcie to USB3.0 桥的固件，此操作**不是**必须的，但是可以略微提升usb3.0读写性能。相关文件和工具请点击**[此处](https://github.com/pifan-community/Debian-Pi-Aarch64-Component/tree/master/FW/vl805)**
+你还可以选择升级VL805 Pcie to USB3.0 桥的固件，此操作**不是**必须的，但是可以略微提升usb3.0读写性能。相关文件和工具请点击**[此处](https://github.com/pifan-community/Debian-Pi-Aarch64-Component/tree/master/FW/vl805)** 官方并不建议进行 vl805 固件的升级，虽然处在 stable 分支下，此操作所用工具及固件均为 beta 状态，请自行评估操作能力决定是否升级。
 
 ----
 
