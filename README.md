@@ -54,6 +54,8 @@ The latest version of the system: **2020-06-22-v2020-2.0-U4-Release**
 
 If you had found a *Chromium browser interface display error* issue on version **202006 U3** please see [here](./README.md#3-163-chromium-browser-interface-display-error).  **This issue had fixed after version >=20200617U3**
 
+PRI4 now offcilay supports USB boot, click**[here](./README.md#5-5-rpi4-usb-boot-support-upgrade-eeprom-fw)** to get upgraded firmware.
+
 ```
 The latest version of kernel and firmware:
 2020-06-22-v2020-2.0-U4-Release (recommended update)
@@ -1899,9 +1901,11 @@ Click **[here](./versions.md)** to view the latest current version information.
 
 ### 5-5 Rpi4 USB Boot Support (Upgrade eeprom FW)
 
-Click **[here](./FW/)** to download file for eeprom FW upgrade, will be support Rpi4 usb boot.
+Click **[here](https://github.com/pifan-community/Debian-Pi-Aarch64-Component/tree/master/FW/eeprom)** to download file for eeprom FW upgrade, will be support Rpi4 usb boot.
 
 After decompressing the files, please read the readme.txt file and follow the note steps to upgrade. (Note: You must upgrade the firmware on TF boot mode first)
+
+You also have the option to upgrade your VL805 firmware by click**[here](https://github.com/pifan-community/Debian-Pi-Aarch64-Component/tree/master/FW/vl805) ** , this is not a necessary process, but will benefits you with slightly increased usb3.0 read and write speed.
 
 ----
 
