@@ -15,6 +15,9 @@ We will explain all the help and reference that we have used and applied.
 If there are any omissions, please feel free to give us feedback in time.
 Thanks again to all those who have helped us.
 ```
+```
+Current release is not perfectly compatible with Raspberrypi 3A+, it operates fine, You may experience GPIO issues, stay tuned for next release!
+```
 
 ## Official Documentation Version 2.0
 
