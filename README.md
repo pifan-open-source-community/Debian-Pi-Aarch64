@@ -31,7 +31,7 @@ Give me a star, just a click, I will be very happy and satisfied...  :)
 
 **Github Repo:** [github.com/pifan-open-source-community/Debian-Pi-Aarch64](https://github.com/pifan-open-source-community/Debian-Pi-Aarch64)
 
-**Github Repo:** [github.com/openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-official/Debian-Pi-Aarch64)
+**Github Repo:** [github.com/openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64)
 
 ----
 
